@@ -1,6 +1,6 @@
 # KartenKrieg
 a simple card game made using Java with Object Oriented Programing Method to fulfill an assignment
-Inspired by the Game Gwent from The Witcher 3
+Inspired by the fame Gwent from The Witcher 3
 
 How it works:
 - The System will randomly make a deck and deal 2 players each a hand of 15 cards
